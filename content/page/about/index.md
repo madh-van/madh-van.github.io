@@ -30,14 +30,14 @@ menu:
     - Build Machine Learning Models *(across its entire life-cycle)*
       using Mlflow, Tensorflow, Pytorch, Sklearn, Keras
     - Exploratory Data Analysis - Data modeling
-	- Design - Protyping - Test Deeplearning Models (Training -
+	- Design, Protyping, and Test Deeplearning Models (Training -
       Validation - Deployment)
     - Image Processing, Computer Vision, Machine Learning, Deep
       Learning, Reinforcement Learning.
   - **SW development**
     - Follow best practices like Agile Scrum and Test Driven Development.
     - Love Abstractions whilst building Frameworks and Tools.
-    - Automation with CI/CD pipelines (Jenkins).
+    - Automation with CI/CD pipelines.
   - **GNU/Linux Systems**
     - Proponent of free software and user freedom. 
     - Emacs evangelist.
