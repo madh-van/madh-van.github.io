@@ -32,10 +32,11 @@ menu:
  Below are the areas I am passionate about;
 
   - **Artificial Intelligence**
-    - Build  Machine Learning Models *(across its entire life-cycle)* using
-      Mlflow, Tensorflow, Pytorch, Sklearn, Keras
-    - Exploratory Data Analysis - Data modeling -
-	- Design - Protyping - Test Deeplearning Models (Training - Validation - Deployment)
+    - Build Machine Learning Models *(across its entire life-cycle)*
+      using Mlflow, Tensorflow, Pytorch, Sklearn, Keras
+    - Exploratory Data Analysis - Data modeling
+	- Design - Protyping - Test Deeplearning Models (Training -
+      Validation - Deployment)
     - Image Processing, Computer Vision, Machine Learning, Deep
       Learning, Reinforcement Learning.
   - **SW development**
