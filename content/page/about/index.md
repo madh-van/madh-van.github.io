@@ -19,6 +19,8 @@ menu:
             icon: user
 ---
 
+Email: _madhavan.make at gmail.com_
+
 # Hi there :wave: I'm Madhavan  
 
   - A deep learner; who is addicted to learning and growing every day
