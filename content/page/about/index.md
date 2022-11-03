@@ -2,6 +2,7 @@
 title: About
 description: 
 date: '2019-02-28'
+toc: false
 links:
   - title: GitHub
     description: Find more of my work here.
