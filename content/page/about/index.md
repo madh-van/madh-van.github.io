@@ -24,7 +24,7 @@ menu:
 
   - 💭 A deep learner; who is addicted to learning and growing every day.
   - ✍️ I am currently sharing a little bit of my knowledge through [my blogs](https://madh-van.github.io/)
-  - 📫 Watnt to reach out? email me at madhavan.make at gmail.com
+  - 📫 Want to reach out? email me at madhavan.make at gmail.com
 
 ## Below are the areas I am passionate about;
 
